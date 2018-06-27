@@ -1,7 +1,5 @@
 import React from "react";
-import {
-    View
-} from "react-native";
+import {View} from "react-native";
 
 const Card = props => {
     return (
@@ -30,5 +28,5 @@ const styles = {
         marginTop: 10
     }
 };
-66
-export default {Card};
+
+export  {Card};
