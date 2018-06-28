@@ -38,7 +38,7 @@ class App extends React.Component {
             case false:
                 return <LoginForm />;
             default:
-                return <Spinner size = "large" / > ;
+                return <Spinner size = "large" /> ;
       }
   }
 
